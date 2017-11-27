@@ -1,0 +1,30 @@
+F:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe.config
+F:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe
+F:\desarrollo apps\C#\snake\snake\bin\Debug\snake.pdb
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Form1.resources
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Properties.Resources.resources
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.exe
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.pdb
+H:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe.config
+H:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe
+H:\desarrollo apps\C#\snake\snake\bin\Debug\snake.pdb
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Form1.resources
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Properties.Resources.resources
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.exe
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.pdb
+C:\Users\Afuro\Desktop\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Afuro\Desktop\snake\snake\bin\Debug\snake.exe
+C:\Users\Afuro\Desktop\snake\snake\bin\Debug\snake.pdb
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.Form1.resources
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.exe
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.pdb
